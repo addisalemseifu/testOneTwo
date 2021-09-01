@@ -8,7 +8,9 @@
 body {
     background: red;
     border: 2px solid blue;
-    
+    padding: 10px;
+}
+
 header {
     background: blue;
     font-weight: 100;
